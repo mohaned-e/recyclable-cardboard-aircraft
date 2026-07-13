@@ -58,7 +58,7 @@ Flight time, landing distance, and trajectory shape were measured via video anal
 
 ## Video
 
-**[▶ Project summary & flight test footage]([https://youtu.be/mbl3f1Ac6y4?si=Gd0bXzZZfy35qnm3])**
+**[▶ Project summary & flight test footage](https://youtu.be/mbl3f1Ac6y4?si=Gd0bXzZZfy35qnm3)**
 
 ---
 
