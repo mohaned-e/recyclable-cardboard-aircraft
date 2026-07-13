@@ -58,7 +58,7 @@ Flight time, landing distance, and trajectory shape were measured via video anal
 
 ## Video
 
-**[▶ Project summary & flight test footage](VIDEO_LINK_HERE)**
+**[▶ Project summary & flight test footage]((https://youtu.be/mbl3f1Ac6y4?si=Gd0bXzZZfy35qnm3))**
 
 ---
 
@@ -66,4 +66,4 @@ Flight time, landing distance, and trajectory shape were measured via video anal
 
 Mohaned Elkurdi — MEng Aerospace Engineering, University of Manchester
 Team lead, physical design & manufacture, project video
-[Other team contributors to be credited]
+[Other team members credited: Yat Cheung, Xinyi Feng, Eva Kielstra Ortega, Adesh Krishna, Yithro Teo]
