@@ -64,6 +64,6 @@ Flight time, landing distance, and trajectory shape were measured via video anal
 
 ## Author
 
-Mohaned Elkurdi — MEng Aerospace Engineering, University of Manchester
+Mohaned Elkurdi — Aerospace Engineering, University of Manchester
 Team lead, physical design & manufacture, project video
 [Other team members credited: Yat Cheung, Xinyi Feng, Eva Kielstra Ortega, Adesh Krishna, Yithro Teo]
